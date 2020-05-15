@@ -1,0 +1,7 @@
+name: Ping
+main: me.ping.main.Main
+author: Tijela_Quebrada
+description: Plugin de Ping
+version: 1.0
+commands:
+  ping:

@@ -1,0 +1,8 @@
+name: BeastChat
+main: me.beastchat.main.Main
+author: Tijela_Quebrada
+description: Plugin de Chat
+version: 1.0
+commands:
+  chat:
+  cc:
